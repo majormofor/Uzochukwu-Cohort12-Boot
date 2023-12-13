@@ -22,6 +22,6 @@
   fill: #0dcaf0;
 }
 
-.row {
-  background-color: aliceblue;
+.triangle {
+  border-radius: 0;
 }
