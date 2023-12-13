@@ -1,0 +1,27 @@
+.container {
+  color: blue;
+}
+
+.bi {
+  width: 20px;
+  height: 20px;
+}
+
+.red {
+  fill: #c8303f;
+}
+
+.green {
+  fill: green;
+}
+
+.warning {
+  fill: rgb(108, 108, 72);
+}
+.info {
+  fill: #0dcaf0;
+}
+
+.row {
+  background-color: aliceblue;
+}
